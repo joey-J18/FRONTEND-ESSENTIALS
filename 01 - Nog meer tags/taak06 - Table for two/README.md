@@ -22,6 +22,7 @@ Dat ziet er dan zo uit:
             <th>Voornaam</th>
             <th>Achternaam</th>
         </tr>
+        
     </thead>
     <tbody>
         <tr>
