@@ -5,7 +5,7 @@
 
 #container{
     width: 800px;
-    height: 500px;
+    height: 600px;
     background-color: red;
     border: 1px solid black;
 }
@@ -14,13 +14,19 @@
 
 #bovenkant{
     width: 800px;
-    height: 250px;
-    background-color: white;
+    height: 200px;
+    background-color: red;
 }
 
 #onderkant{
-    width: 0px;
-    height: 0px;
-    background-color: red;
+    width: 800px;
+    height: 200px;
+    background-color: blue;
+}
+
+#midden{
+    width: 800px;
+    height: 200px;
+    background-color: white;
 }
 
